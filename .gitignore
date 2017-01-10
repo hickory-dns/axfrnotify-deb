@@ -1,0 +1,4 @@
+.vagrant
+axfrnotify
+axfrnotify*.deb
+bintray-descriptor.json
